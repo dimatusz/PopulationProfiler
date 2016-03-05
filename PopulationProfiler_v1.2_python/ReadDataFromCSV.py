@@ -15,9 +15,9 @@ are permitted provided that the following conditions are met:
 
 3. Any scientific work resulting from the use of this software must cite the 
    original paper:
-   Matuszewski, D. J., Puigvert, J. C., Wählby, C.,  Sintorn, I.-M. (2015) 
-   PopulationProfiler: a tool for population analysis, dimensionality reduction, 
-   and visualization of image-based cell screening data. 
+   Matuszewski, D. J., Wählby, C., Puigvert, J. C., Sintorn, I.-M. 
+   PopulationProfiler: a tool for population analysis and visualization of
+   image-based cell screening data. PLoS ONE. (2016) 
 
 THIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS AND CONTRIBUTORS "AS IS"
 AND ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE

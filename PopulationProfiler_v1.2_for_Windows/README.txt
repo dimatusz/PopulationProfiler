@@ -1,0 +1,1 @@
+Use 7zip or other software to decompress the archive.
